@@ -2,6 +2,7 @@ SEP300 - Web Development & Deployment
 BTS535 - Software Project Management
 SED505 - Design Patterns
 SEA500 - Introduction To Data Mining
+SEA500 - Introduction To Data Minin
 SEH500 - Microprocessors & Computer Architecture
 SED500 - Introduction To Software Engineering
 SEE500 - Systems Requirements Engineering
